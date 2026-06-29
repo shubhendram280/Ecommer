@@ -1,3 +1,83 @@
+# Ecommer - React E-Commerce Website
+
+A simple and responsive E-Commerce website built using React and Vite. The project displays products with a clean user interface and demonstrates React component-based development.
+
+## Features
+
+- Responsive UI
+- Product Listing
+- Reusable React Components
+- Fast performance with Vite
+- Clean and simple design
+
+## Tech Stack
+
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/shubhendram280/Ecommer.git
+```
+
+2. Go to the project folder
+
+```bash
+cd Ecommer
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start the development server
+
+```bash
+npm run dev
+```
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+## Deploy
+
+```bash
+npm run deploy
+```
+
+## Live Demo
+
+https://shubhendram280.github.io/Ecommer/
+
+## Folder Structure
+
+```
+src/
+ ├── components/
+ ├── assets/
+ ├── App.jsx
+ ├── main.jsx
+ └── App.css
+```
+
+## Author
+
+**Shubhendra Singh**
+
+GitHub: https://github.com/shubhendram280
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
